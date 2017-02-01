@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "8F26B2C1F4502D2D87AB95108A5471BF3859DAD9",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "160C6D688E2AB4491532CD1DD8CD08E1416B32CA" : 9223372036854775807,
+    "8F26B2C1F4502D2D87AB95108A5471BF3859DAD9" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "C068518E-2D12-48D5-B0B2-BD4F7494F867",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "160C6D688E2AB4491532CD1DD8CD08E1416B32CA" : "",
+    "8F26B2C1F4502D2D87AB95108A5471BF3859DAD9" : "MakeSchooliOS\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "TipPro",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "TipPro\/TipPro.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/erickimme\/minnehacktest.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "160C6D688E2AB4491532CD1DD8CD08E1416B32CA"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/erickimme\/MakeSchooliOS.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8F26B2C1F4502D2D87AB95108A5471BF3859DAD9"
+    }
+  ]
+}
